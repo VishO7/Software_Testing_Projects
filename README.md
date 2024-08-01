@@ -1,4 +1,4 @@
-# Software_Testing_Projects (Manual)
+# Software_Testing_Projects
 Manual Testing Projects with Documents
 
 
